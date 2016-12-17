@@ -166,8 +166,8 @@ p.justify { text-align: justify; }
     justify-content: space-around;
 }
 #portfolio-content img { 
-	width: 250px; 
-	height: 250px; 
+	width: 121px;
+	height: 75px;
 }
 .portfolio-group {
 	display: inline-block;
